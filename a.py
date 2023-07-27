@@ -6,10 +6,10 @@
 # print('this is "doublequote"')
 # name = input('enter')
 # print(name)
-name= 'tony'
-lname='stark'
-age=51
-is_genius=True
-print(name + lname)
-print (age)
-print("tony is genius is",is_genius)
+# name= 'tony'
+# lname='stark'
+# age=51
+# is_genius=True
+# print(name + lname)
+# print (age)
+# print("tony is genius is",is_genius)
